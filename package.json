@@ -1,7 +1,7 @@
 {
   "name": "gulp-css-spritesmith-tentou",
   "version": "1.0.1",
-  "description": "## 这是什么",
+  "description": "spritesmith",
   "main": "lib/gulp-css-spritesmith",
   "directories": {
     "test": "test"

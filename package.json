@@ -1,6 +1,6 @@
 {
   "name": "gulp-css-spritesmith-tentou",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "spritesmith",
   "main": "lib/gulp-css-spritesmith",
   "directories": {
@@ -9,7 +9,7 @@
   "dependencies": {
     "gulp-util": "~2.2.14",
     "through2": "~0.6.1",
-    "css-spritesmith-tentou": "^1.0.3"
+    "css-spritesmith-tentou": "^1.0.4"
   },
   "devDependencies": {
     "gulp": "~3.5.2",

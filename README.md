@@ -1,4 +1,4 @@
-# gulp-css-spritesmith
+# gulp-css-spritesmith-tentou
 
 ## 这是什么
 
@@ -83,7 +83,7 @@ gulp.task('autoSprite', function() {
 请不要忘了载入插件
 
 ```
-var cssSprite = require('gulp-css-spritesmith');
+var cssSprite = require('gulp-css-spritesmith-tentou');
 ```
 
 ## 打个比方
